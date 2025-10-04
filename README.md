@@ -81,4 +81,3 @@ Planned improvements for upcoming versions include:
 - **Live Data Tools**: Incorporate LLM-based tools for **real-time search** and querying structured **medical datasets**.  
 - **Advanced Parsing**: Improve handling of complex medical reports with structured outputs (e.g., JSON schema validation).  
 - **Automated Testing**: Add evaluation pipelines and smoke-test CI with mocked LLM calls for reproducibility.  
----
